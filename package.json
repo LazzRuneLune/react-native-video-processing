@@ -1,5 +1,5 @@
 {
-  "name": "react-native-video-processing",
+  "name": "@lazz-rune-lune/react-native-video-processing",
   "version": "1.7.1",
   "description": "Native Video processing/editing for React-Native",
   "main": "index.js",
